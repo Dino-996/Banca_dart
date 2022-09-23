@@ -69,7 +69,7 @@ Per maggiorni informazioni sul dart compiler: https://dart.dev/tools/dart-compil
     
 ## Licenza [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2022 [@Dino-996](https://github.com/Dino-996)
+Copyright (c) 2022 [Davide Sabia](https://github.com/Dino-996)
 
 L'autorizzazione è concessa, gratuitamente, a chiunque ottenga una copia
 di questo software e dei file di documentazione associati, da trattare
