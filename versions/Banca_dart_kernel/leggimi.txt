@@ -1,0 +1,3 @@
+Per avviare l'applicazione da terminale: 
+ $ cd Banca_dart_kernel
+ $ ./Banca.sh

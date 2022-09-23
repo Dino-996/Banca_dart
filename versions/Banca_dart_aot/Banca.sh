@@ -1,0 +1,1 @@
+dartaotruntime bin/Banca.aot
